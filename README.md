@@ -25,7 +25,7 @@ npm run start
 
 Then open Insomnia and type http://localhost:3000/ to run this application on your local machine.
 
-![home](/Users/wilfredorecinos/challengesbootcamp/PWA-text-editor/assets/images/Screen Shot 2023-04-14 at 11.21.53 AM.png)
+![home](./assets/images/Screen%20Shot%202023-04-14%20at%2011.21.53%20AM.png)
 
 ## Licence
 MIT
