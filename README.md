@@ -14,7 +14,13 @@ This application allows the user to access visited pages even if the application
 
 
 ## Installation
+Heroku link
 
+https://newpwatexteditor-1.herokuapp.com/
+
+Github link
+
+https://github.com/will198735/PWA-text-editor
 
 
 
