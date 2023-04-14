@@ -27,5 +27,9 @@ Then open Insomnia and type http://localhost:3000/ to run this application on yo
 
 ![home](./assets/images/Screen%20Shot%202023-04-14%20at%2011.21.53%20AM.png)
 
+![indexDB](./assets/images/Screen%20Shot%202023-04-14%20at%2011.21.20%20AM.png)
+
+![manifest serviceWorker](./assets/images/Screen%20Shot%202023-04-14%20at%2011.21.09%20AM.png)
+
 ## Licence
 MIT
